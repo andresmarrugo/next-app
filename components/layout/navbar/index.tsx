@@ -6,6 +6,7 @@ const CustomHeader = (props: Props) => {
     return (
         <div className={style.navbar}>
             <h1>Pokedex</h1>
+            <h1>Melo te amo! ❤</h1>
         </div>
     )
 }
